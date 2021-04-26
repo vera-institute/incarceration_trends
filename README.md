@@ -1,4 +1,4 @@
-![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/master/img/vera-logo.png?raw=true)
+[![Vera Institute of Justice Logo](https://github.com/vera-institute/incarceration_trends/blob/master/img/vera-logo.png?raw=true)](https://www.vera.org/)
 
 # Incarceration Trends Dataset
 County- and jurisdiction-level jail data (1970-2018) and prison data (1983-2016)
